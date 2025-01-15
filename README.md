@@ -7,7 +7,7 @@ An interpreter for the Oiia language, a fun and esoteric programming language.
 You can install the package via pip:
 
 ```bash
-pip install spinning-cat-lang==0.1.0
+pip install spinning-cat-lang
 ```
 
 ## Usage
